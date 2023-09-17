@@ -1,0 +1,5 @@
+﻿  main.cpp
+G:\projects VS\SFML\SFML\CantorFractal.h(29,26): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+G:\projects VS\SFML\SFML\CantorFractal.h(40,27): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+G:\projects VS\SFML\SFML\main.cpp(32,37): warning C4305: аргумент: усечение из "double" в "float"
+  SFML.vcxproj -> G:\projects VS\SFML\x64\Debug\SFML.exe
